@@ -7,7 +7,7 @@ Array problem solved by traversing the array using indices.
 If interested in my approaches and comments, please visit the following
 post in my blog:
 
-<T.B.D.>
+https://www.johncanessa.com/2020/12/22/spiral-matrix-revisited/
 
 Keep on reading and experimenting; it is the best way to leard.
 
